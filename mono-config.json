@@ -1,0 +1,63 @@
+{
+  "mainAssemblyName": "dotnet-webgl-demo.dll",
+  "assemblyRootFolder": "managed",
+  "debugLevel": 0,
+  "assets": [
+    {
+      "behavior": "dotnetwasm",
+      "name": "dotnet.wasm",
+      "hash": "sha256-soFxksqIjrQCkEJxDO3ZYujObNY7MTuz\u002BdSsx2AGqHE="
+    },
+    {
+      "behavior": "symbols",
+      "name": "dotnet.js.symbols",
+      "hash": "sha256-J0Pa1jqs2/VhA1dXjXK2nG8yN4XgzZwXIlW1dza/3dY="
+    },
+    {
+      "behavior": "assembly",
+      "name": "dotnet-webgl-demo.dll",
+      "hash": "sha256-HM0dKj3zdO4hnUo1QR2fEdD4491Ah3khAQadtmu102k="
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Console.dll",
+      "hash": "sha256-lcIzHX/GZB5dYqMk7hKrGeaPqs4lZi2heC68dWlyWeA="
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.CoreLib.dll",
+      "hash": "sha256-YDrZfJJPfd6ujwpOvZqAndSwEtY1ELv2OgXM3Ql7h1g="
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.InteropServices.JavaScript.dll",
+      "hash": "sha256-zJClJE4f5vTLDv5dFRfeRkXOqUF2oUPa8mpJ42BYqCI="
+    },
+    {
+      "virtualPath": "runtimeconfig.bin",
+      "behavior": "vfs",
+      "name": "supportFiles/0_runtimeconfig.bin",
+      "hash": "sha256-8bhJqueQ2ILeFYnfqwVEEhoLZ15Qwks/Ewv7UcsZ5V0="
+    },
+    {
+      "loadRemote": false,
+      "behavior": "icu",
+      "name": "icudt_CJK.dat",
+      "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk="
+    },
+    {
+      "loadRemote": false,
+      "behavior": "icu",
+      "name": "icudt_EFIGS.dat",
+      "hash": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc="
+    },
+    {
+      "loadRemote": false,
+      "behavior": "icu",
+      "name": "icudt_no_CJK.dat",
+      "hash": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q\u002B0Nfs="
+    }
+  ],
+  "remoteSources": [],
+  "assetsHash": "sha256-ZQwjcM7bkoewGnHyF6jzON6Hy86QEI3htq2X/sbnH3s="
+}
